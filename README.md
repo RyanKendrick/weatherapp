@@ -1,5 +1,1 @@
-## To get it running:
-
-### `npm install`
-
-### `npm start`
+### [See it live](https://bet365-clone.vercel.app/)
