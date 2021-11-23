@@ -13,6 +13,7 @@ body {
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease;
+  margin: 0 10rem;
 }
 
 .app.warm {
@@ -20,7 +21,7 @@ body {
 }
 
 main {
-  min-height: 50rem;
+  min-height: 80rem;
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.75 ));
   padding: 25px;
 }
