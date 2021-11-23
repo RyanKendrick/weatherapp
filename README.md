@@ -1,5 +1,1 @@
-## To get it running:
-
-### `npm install`
-
-### `npm start`
+### `A simple weather search app with dynamic background built with React.`
